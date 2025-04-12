@@ -11,5 +11,7 @@ Funcionalidades:
 Se adjunta video de explicacion del codigo : https://youtu.be/xoBDdCqks64?si=a4pG3zSb3jLUXmAy
 
 INTEGRANTES:
-Mariana 
-Nawal Oriana Valoyes Renteria
+
+-Mariana Echeverri Ramirez
+
+-Nawal Oriana Valoyes Renteria
